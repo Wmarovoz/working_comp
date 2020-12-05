@@ -1,4 +1,3 @@
 print('kill')
 print('low')
-print('flow')
-print('power')
+print('abrakadabra')
