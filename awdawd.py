@@ -2,3 +2,4 @@
 print('kill')
 print('low')
 print('abrakadabra')
+print('fuck')
